@@ -1,6 +1,6 @@
 nimPy by Abel Mariam
 
-This program is an implementation of the Q-learning reinforcement algorithm on a popular combinatorial game called Nim. This implementation was largely informed and inspired by the undergraduate thesis of Erik Jarleberg (Royal Institute of Technology) entitled "Reinforcement learning on the combinatorial game of Nim". 
+This program is an implementation of the Q-learning reinforcement algorithm on a combinatorial game called Nim. This implementation was largely informed and inspired by the undergraduate thesis of Erik Jarleberg (Royal Institute of Technology) entitled "Reinforcement learning on the combinatorial game of Nim". 
 
 The game of Nim is a two-person mathematical game with the following setup. The game intially starts with three piles of items and the two players alternate taking items from the three piles. The rule is that you must choose one of the three piles and remove at least one items from that pile and the player who removes the last item(s) wins. 
 
